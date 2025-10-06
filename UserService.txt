@@ -1,2 +1,4 @@
 user details...
 processing the data
+
+create an avatar for user
