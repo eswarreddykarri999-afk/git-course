@@ -1,6 +1,6 @@
 add or remove user
 manage the database
-closing the connection
+closing the datbase connection
 
 change 1
 change 2 in harsh's database
